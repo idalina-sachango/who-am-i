@@ -1,0 +1,70 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    background-color: #ffffff;
+    margin: 0;
+    /* min-width: 1000px; */
+    min-height: 1000px;
+    min-width: 100%;
+    }
+
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background: #ffffff;
+  }
+
+  .container {
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+  }
+
+  .svg-tooltip {
+    background: rgba(69, 77, 93, .9);
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: none;
+    max-width: 320px;
+    padding: 1rem;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: pre;
+    z-index: 300;
+    visibility: hidden;
+  }
+  .row {
+    width: 70%;
+    margin: auto;
+    
+  }
+
+  select {
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+  }
+
+  #filter-feat {
+    width: 150px;
+    height: 27px;
+    font-size: 15px;
+  }
+  #chart {
+    min-width: 100%;
+    float: left;
+  }
+  #title {
+    min-width: 100%;
+    float: right;
+  }
+
+  foreignObject p {
+    font-size: 10px;
+  }

@@ -1,0 +1,74 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    background-color: #ffffff;
+    }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background: #ffffff;
+  }
+
+  #container {
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+  }
+
+  #chart {
+    width: 100%;
+  }
+
+  #year {
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+  }
+  #description {
+    font-size: 10px;
+  }
+
+  .svg-tooltip {
+    background: rgba(69, 77, 93, .9);
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: none;
+    max-width: 320px;
+    padding: 1rem;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: pre;
+    z-index: 300;
+    visibility: hidden;
+  }
+
+  img {
+    height: 100px;
+    width: 100px;
+  }
+  .row {
+    width: 90%;
+    margin: auto;
+    
+  }
+
+  .column {
+    float: right;
+    width: 11%;
+    padding: 20px;
+    font-size: 12px;
+  }
+
+  #container-p {
+    font-size: 25px;
+  }
+
+  foreignObject p {
+    font-size: 10px;
+  }

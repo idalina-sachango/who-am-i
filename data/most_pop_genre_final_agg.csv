@@ -1,0 +1,326 @@
+,genre,count
+0,folk-pop,11
+1,shimmer pop,10
+2,stomp and holler,78
+3,indie pop,77
+4,modern rock,67
+5,indie rock,95
+6,la indie,7
+7,chamber pop,44
+8,folk,31
+9,indie folk,65
+10,seattle indie,10
+11,alternative rock,28
+12,anti-folk,20
+13,baroque pop,18
+14,modern folk rock,10
+15,pop rock,37
+16,double drumming,6
+17,rock,83
+18,washington indie,13
+19,elephant 6,11
+20,lo-fi,11
+21,philly indie,10
+22,experimental pop,4
+23,indie garage rock,2
+24,neo-psychedelic,3
+25,art pop,8
+26,baltimore indie,1
+27,dream pop,4
+28,freak folk,2
+29,new rave,3
+30,noise pop,5
+31,jazz blues,8
+32,soul,31
+33,soul jazz,3
+34,torch song,4
+35,vocal jazz,6
+36,ambient worship,10
+37,pop,68
+38,canadian indie,16
+39,toronto indie,8
+40,british singer-songwriter,7
+41,gospel,1
+42,ccm,6
+43,christian music,3
+44,world worship,5
+45,worship,5
+46,ambient folk,3
+47,indiecoustica,9
+48,lds,2
+49,lilith,15
+50,neo mellow,38
+51,acoustic rock,2
+52,folk punk,2
+53,post-grunge,3
+54,acoustic pop,20
+55,modern alternative rock,6
+56,chillwave,5
+57,garage rock,3
+58,permanent wave,17
+59,sheffield indie,3
+60,alternative dance,4
+61,atlanta indie,1
+62,experimental rock,1
+63,garage psych,1
+64,noise rock,1
+65,shoegaze,1
+66,boston rock,2
+67,quebec indie,1
+68,alternative r&b,15
+69,chicago rap,12
+70,escape room,13
+71,hip hop,53
+72,indie soul,14
+73,neo soul,30
+74,rap,37
+75,underground hip hop,12
+76,psychedelic hip hop,9
+77,tennessee hip hop,1
+78,alternative hip hop,20
+79,detroit hip hop,6
+80,atl hip hop,5
+81,milwaukee hip hop,2
+82,jazz rap,3
+83,indie jazz,1
+84,indie hip hop,1
+85,metropopolis,2
+86,vancouver indie,1
+87,nashville indie,1
+88,new americana,4
+89,scottish singer-songwriter,1
+90,lounge,1
+91,boston folk,8
+92,melancholia,19
+93,omaha indie,7
+94,canadian folk,6
+95,singer-songwriter,33
+96,australian indie folk,2
+97,alternative roots rock,4
+98,north carolina indie,2
+99,north carolina roots,2
+100,progressive bluegrass,2
+101,eau claire indie,9
+102,beatlesque,2
+103,british invasion,3
+104,classic rock,47
+105,merseybeat,2
+106,psychedelic rock,4
+107,anthem worship,5
+108,deep ccm,3
+109,irish singer-songwriter,7
+110,gothenburg indie,2
+111,swedish indie folk,2
+112,swedish indie pop,2
+113,swedish singer-songwriter,2
+114,pop rap,16
+115,modern blues,5
+116,conscious hip hop,14
+117,southern hip hop,9
+118,york indie,1
+119,chamber psych,1
+120,electronica,7
+121,electropop,4
+122,downtempo,2
+123,ninja,2
+124,nu jazz,2
+125,madchester,3
+126,new wave,6
+127,uk post-punk,5
+128,bow pop,1
+129,cello,1
+130,pop punk,2
+131,punk,3
+132,socal pop punk,1
+133,art rock,5
+134,oxford indie,2
+135,arkansas country,5
+136,outlaw country,2
+137,abstract hip hop,3
+138,gangster rap,17
+139,political hip hop,2
+140,funk,9
+141,urban contemporary,31
+142,east coast hip hop,10
+143,hardcore hip hop,11
+144,queens hip hop,5
+145,afrofuturism,5
+146,experimental hip hop,2
+147,glitch,2
+148,glitch hop,2
+149,intelligent dance music,2
+150,jazztronica,2
+151,wonky,2
+152,west coast rap,2
+153,philly rap,3
+154,r&b,28
+155,dance pop,50
+156,hip pop,18
+157,new jersey rap,2
+158,boom bap,1
+159,boy band,5
+160,contemporary r&b,10
+161,harlem hip hop,3
+162,golden age hip hop,2
+163,acoustic blues,15
+164,blues,23
+165,blues rock,17
+166,electric blues,20
+167,memphis soul,15
+168,soul blues,20
+169,traditional blues,21
+170,chicago blues,11
+171,country blues,4
+172,texas blues,3
+173,rock-and-roll,2
+174,rockabilly,1
+175,delta blues,1
+176,pre-war blues,1
+177,album rock,4
+178,instrumental rock,1
+179,harmonica blues,3
+180,louisiana blues,3
+181,memphis blues,2
+182,classic soul,14
+183,southern soul,15
+184,quiet storm,6
+185,pop r&b,4
+186,south carolina hip hop,1
+187,chicano rap,1
+188,dirty south rap,1
+189,latin hip hop,1
+190,texas latin rap,1
+191,post-teen pop,29
+192,battle rap,1
+193,trap,2
+194,nyc rap,1
+195,g funk,1
+196,reggae fusion,3
+197,uk reggae,3
+198,reggae,3
+199,roots reggae,3
+200,europop,3
+201,swedish pop,3
+202,brill building pop,7
+203,italian adult pop,3
+204,mexican pop,5
+205,latin pop,6
+206,solo wave,1
+207,brega,1
+208,pop nacional antigas,3
+209,sertanejo tradicional,1
+210,velha guarda,2
+211,bolero,1
+212,cancion melodica,1
+213,musica yucateca,1
+214,adult standards,6
+215,chanson,1
+216,vintage schlager,1
+217,contemporary country,57
+218,country,60
+219,country road,59
+220,country rock,35
+221,modern country rock,10
+222,folk rock,28
+223,mellow gold,7
+224,soft rock,5
+225,oklahoma country,3
+226,country dawn,8
+227,country pop,3
+228,irish rock,3
+229,ectofolk,1
+230,funk metal,2
+231,glam metal,1
+232,hard rock,1
+233,alternative metal,1
+234,nu metal,1
+235,rap rock,1
+236,new jack swing,1
+237,motown,3
+238,northern soul,1
+239,piano rock,4
+240,indie r&b,2
+241,glam rock,2
+242,classic uk pop,1
+243,ranchera,2
+244,rock en espanol,1
+245,tropical,1
+246,latin arena pop,2
+247,indie quebecois,1
+248,san marcos tx indie,1
+249,pop folk,1
+250,stomp and flutter,1
+251,irish pop,1
+252,la pop,3
+253,christian indie,3
+254,indy indie,1
+255,roots worship,1
+256,anime score,1
+257,retro soul,1
+258,afropop,2
+259,alte,1
+260,azontobeats,2
+261,nigerian hip hop,1
+262,nigerian pop,2
+263,indie poptimism,4
+264,yacht rock,1
+265,australian pop,1
+266,viral pop,1
+267,christian hip hop,1
+268,houston rap,1
+269,scandinavian r&b,1
+270,swedish soul,1
+271,uk alternative pop,2
+272,broadway,4
+273,hollywood,3
+274,show tunes,3
+275,otacore,1
+276,bubblegum pop,1
+277,heartland rock,1
+278,apostolic worship,1
+279,christian pop,2
+280,dutch indie,1
+281,christian alternative rock,1
+282,praise,1
+283,roots rock,25
+284,indie anthem-folk,1
+285,brighton indie,1
+286,girl group,3
+287,okc indie,3
+288,canadian electropop,1
+289,grave wave,1
+290,indietronica,4
+291,brooklyn indie,2
+292,new weird america,1
+293,slowcore,1
+294,rock independant francais,1
+295,vapor soul,1
+296,canadian contemporary r&b,1
+297,canadian pop,1
+298,american post-rock,1
+299,cinematic post-rock,1
+300,instrumental post-rock,1
+301,post-rock,1
+302,classic girl group,2
+303,early us punk,2
+304,skate punk,2
+305,new romantic,1
+306,new wave pop,1
+307,post-punk,1
+308,synthpop,1
+309,sunshine pop,1
+310,alt z,6
+311,gen z singer-songwriter,4
+312,british folk,1
+313,modern alternative pop,2
+314,uk pop,1
+315,mariachi,1
+316,bubblegrunge,1
+317,indie punk,1
+318,latinx alternative,1
+319,souldies,1
+320,small room,1
+321,semba,1
+322,palestinian hip hop,1
+323,belgian pop,1
+324,variete francaise,1
